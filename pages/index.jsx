@@ -34,6 +34,7 @@ export default function Home({ data }) {
         e.target.reset()
       })
   }
+  
 
   async function deleteShortcut(shortcutID) {
 
